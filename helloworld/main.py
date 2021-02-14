@@ -1,0 +1,6 @@
+day = int(input("день: "))
+month = int(input("месяц: "))
+year = int(input("год: "))
+print(day, month, year, sep=".", end="?\n")
+username = input("имя пользователя: ")
+print(username, "gmail.com", sep="@", end=" !\n")
