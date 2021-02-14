@@ -1,2 +1,2 @@
 # python-basics
-Python basics
+Python basics by Renata.
