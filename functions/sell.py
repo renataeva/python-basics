@@ -1,11 +1,9 @@
 
 def sell(goods, price):
-    result = goods*price
-    return result
-
+    return goods*price
 
 goods = int(input('Goods...'))
 price = int(input('Price...'))
 
 r = sell(goods, price)
-print(f'Прибыль сосставит {r} $')
+print(f'Прибыль составит {r} $')
